@@ -1,4 +1,4 @@
-![captura](https://github.com/Tatyane-Goncalves/projeto11/assets/135237271/119c676d-2ecc-4525-98e2-e98a3e66c036)# Projeto - 11 | Clipboard landing page
+# Projeto - 11 | Clipboard landing page
 
 ## Bem-vindo(a)!
 
@@ -8,7 +8,7 @@ Essa é uma solução do para o [desafio do clipboard landing page] (https://www
 
 
 ![Uploading captura.png…]()
-
+![captura](https://github.com/Tatyane-Goncalves/projeto11/assets/135237271/119c676d-2ecc-4525-98e2-e98a3e66c036)
 
 
 - URL do site ativo: (https://tatyane-goncalves.github.io/projeto11/)
